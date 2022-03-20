@@ -1,8 +1,8 @@
-.attribution {
+.footer {
   font-size: 11px;
   text-align: center;
 }
-.attribution a {
+.footer a {
   color: hsl(228, 45%, 44%);
 }
 
@@ -28,7 +28,7 @@ p {
   text-align: center;
 }
 
-.container {
+.main {
   background-color: hsl(0, 0%, 100%);
   border-radius: 3%;
   height: 480px;
