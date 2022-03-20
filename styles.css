@@ -2,7 +2,6 @@ footer {
   font-size: 11px;
   text-align: center;
 }
-
 footer a {
   color: hsl(228, 45%, 44%);
 }
@@ -56,3 +55,4 @@ img {
   display: flex;
   justify-content: center;
 }
+
